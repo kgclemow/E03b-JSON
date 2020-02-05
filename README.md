@@ -5,4 +5,4 @@ If you need to check to see if you have produced a valid JSON file, you can vali
 
 
 
-This is an excercise from a G320 Game Technology class designed to work practice working with a JSON file. The exercise prepares for a future Fiction Text Adventure game assignment. Descriptions, items, and exits were added or edited. This format is a simple start for a future game. 
+This is an excercise from a C220 Game Technology class designed to work practice working with a JSON file. The exercise prepares for a future Fiction Text Adventure game assignment. Descriptions, items, and exits were added or edited. This format is a simple start for a future game. 
